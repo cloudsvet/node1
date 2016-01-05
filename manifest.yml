@@ -1,0 +1,4 @@
+---
+applications:
+- name: node1
+  mem: 128M
